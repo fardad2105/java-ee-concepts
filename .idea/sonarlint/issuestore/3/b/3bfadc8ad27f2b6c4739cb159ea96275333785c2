@@ -1,0 +1,32 @@
+
+c
+java:S2259D"AA "NullPointerException" could be thrown; "con" is nullable here.(ÈŒÍ¹úÿÿÿÿ8’÷Âáá2
+^
+java:S2259"AA "NullPointerException" could be thrown; "con" is nullable here.(ıá±°8ã•Åáá2
+c
+java:S22591"AA "NullPointerException" could be thrown; "con" is nullable here.(›Âêãÿÿÿÿÿ8“÷Âáá2
+c
+java:S2259k"AA "NullPointerException" could be thrown; "con" is nullable here.(²²³Íÿÿÿÿÿ8“÷Âáá2
+c
+java:S2259R"AA "NullPointerException" could be thrown; "con" is nullable here.(õé”ªúÿÿÿÿ8“÷Âáá2
+q
+java:S2095D"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÈŒÍ¹úÿÿÿÿ8“÷Âáá2
+l
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ıá±°8“÷Âáá2
+q
+java:S20951"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(›Âêãÿÿÿÿÿ8“÷Âáá2
+q
+java:S2095R"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(õé”ªúÿÿÿÿ8“÷Âáá2
+q
+java:S2095k"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²²³Íÿÿÿÿÿ8ã•Åáá2
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÈÅÛúÿÿÿÿ8•÷Âáá2
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ8–÷Âáá2
+L	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8—÷Âáá2
+L	java:S106'"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8›÷Âáá2
+L	java:S106:"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8÷Âáá2
+L	java:S106G"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8 ÷Âáá2
+L	java:S106`"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¤÷Âáá2
+L	java:S106z"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8§÷Âáá2
+hsecrets:S6703"HMake sure this database password gets changed and removed from the code.(óøòê8ô½şßá2
